@@ -2,7 +2,8 @@
 
 ## Advanced Configuration
 
-While the basic setup of Zapier workflows for Zendesk automation covers common use cases, you may find yourself needing more specialized configurations to suit your organization's unique requirements. Here, we'll explore some advanced configuration options and techniques to help you tailor your workflows effectively.
+While the basic setup of Zapier workflows for Zendesk automation covers common use cases, 
+we'll explore some advanced configuration options and techniques to help you tailor our workflows effectively.
 
 ### Filters
 
