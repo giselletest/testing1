@@ -26,6 +26,4 @@ Test cases for validating the Zapier-Zendesk integration can be found in the [te
 
 Contributions to the repository are welcome! Whether it's adding new features, improving documentation, or fixing bugs, we appreciate any contributions from the community. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
